@@ -2,7 +2,7 @@ name: Check Required Reviews
 on:
   pull_request_review:
   pull_request:
-    types: [opened, reopened, synchronize, edited]
+    types: [opened, reopened, synchronize]
 
 jobs:
   check:
