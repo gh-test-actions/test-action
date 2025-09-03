@@ -1,0 +1,21 @@
+{
+  "name": "test-action",
+  "version": "1.0.0",
+  "description": "Test 'Automattic/action-required-review'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gh-test-actions/test-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gh-test-actions/test-action/issues"
+  },
+  "homepage": "https://github.com/gh-test-actions/test-action#readme"
+}
